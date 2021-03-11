@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="AppBarHeight">250dp</dimen>
+    <dimen name="main_fab_margin">20dp</dimen>
+    <dimen name="drawablePadding">10dp</dimen>
+    <dimen name="custom_img_height">150dp</dimen>
+    <dimen name="custom_car_tv_height">18dp</dimen>
+    <dimen name="custo_car_tv_textSize">20sp</dimen>
+    <dimen name="custom_car_color_width">100dp</dimen>
+    <dimen name="custom_car_textSize_color" >18sp</dimen>
+    <dimen name="cardView_radius">20dp</dimen>
+    <dimen name="cardView_elevation">10dp</dimen>
+</resources>
